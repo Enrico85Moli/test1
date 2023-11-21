@@ -34,7 +34,7 @@ import PIL
 from PIL import ImageTk # -> TODO: sudo apt-get install python3-pil.imagetk
 import PIL.ImageOps
 
-SCRIPT_VERSION = "V2.8_14/11/2023"
+SCRIPT_VERSION = "V2.8_14/11/2024"
 
 WINDOW_SHIFT_X = 278
 WINDOW_SHIFT_Y = 130
